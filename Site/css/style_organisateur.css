@@ -1,18 +1,26 @@
+.container{
+	background-color: #c0c0c0;
+}
 .row{
 	text-align: center;
 	font-family: Impact;
-	font-size: 31pt;
-	
+	font-size: 24pt;
 }
-.alex{
+#cadre{
+	width: 100%;
 	background-color: #c32518;
+	-webkit-border-radius:10px / 10px;
+	-moz-border-radius:10px / 10px;
+	-o-border-radius:10px / 10px;
+	border-radius:10px / 10px;
+	margin-top: auto;
+
 }
-.vincent{
-	background-color: #c32518;
+
+
+#identite{
+	margin-top: 20px;
 }
-.julien{
-	background-color: #c32518;
-}
-.sandra{
-	background-color: #c32518;
+#texte{
+	margin-top: 50px;
 }
